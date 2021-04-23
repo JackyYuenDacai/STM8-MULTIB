@@ -6,3 +6,5 @@ ic used:
 USB37640B
 USB2514
 STM8S105K4T6
+
+To fabricate the PCB board, only submit the Project Output Zip file under Hardware.
